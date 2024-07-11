@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Rishabh Gupta
 
 Welcome to my GitHub profile! I'm a passionate backend developer with a focus on building robust and scalable systems. Here, you'll find a glimpse of my projects and contributions.
 
