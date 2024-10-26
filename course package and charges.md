@@ -19,7 +19,7 @@ This course is designed to prepare aspiring software developers for the industry
 
 ---
 
-👉 **Ready to get started? [Book Your Appointment Now!]((https://calendly.com/rishab178)) 📆**
+👉 **Ready to get started? [Book Your Appointment Now!](https://calendly.com/rishab178) 📆**
 
 ---
 
