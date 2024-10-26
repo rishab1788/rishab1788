@@ -3,6 +3,8 @@
 Welcome to our **Dynamo Developer Becomming Program**! 
 This course is designed to prepare aspiring software developers for the industry, from crafting a standout resume to navigating interviews, finding internships, and building a strong professional profile. Here’s what you’ll gain from each module:
 
+
+
 | **Module**                                      | **Description**                                                                                                                                                 | **What’s Included**                                                                                                                                                   | **Charges**          |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
 | 📝 **Resume Crafting for Developers**           | Create a polished resume tailored for the tech industry, emphasizing skills, projects, and technical accomplishments.                                           | - Feedback on resume structure and keywords for ATS <br> - Highlights for projects and key technologies                                                              |student -₹399<br>  professional -₹799         |
@@ -14,3 +16,11 @@ This course is designed to prepare aspiring software developers for the industry
 | 🤖 **Using ChatGPT Like a Pro**                  | Harness ChatGPT to help debug, solve coding challenges, and practice interview responses.                                                                               | - Tips for using ChatGPT effectively in code reviews <br> - Exploring AI-powered problem-solving strategies <br> - Practicing interview Q&A with AI guidance               | student -₹1299<br>  professional -₹2799      |
 | 🎯 **Setting & Achieving Career Goals**          | Establish long-term career goals and identify steps to reach your professional aspirations.                                                                             | - Goal-setting exercises <br> - Creating a skill development plan <br> - Regular check-ins for tracking progress                                                           | student -₹399<br>  professional -₹799      |
 | 🎓 **Professionalism in the Workplace**          | Learn workplace etiquette, effective communication, and collaboration techniques to excel in a professional software development environment.                            | - Workplace etiquette and communication basics <br> - Tips for collaboration with cross-functional teams <br> - Conflict resolution and feedback acceptance techniques    |student -₹599<br>  professional -₹1799     |
+
+---
+
+👉 **Ready to get started? [Book Your Appointment Now!]((https://calendly.com/rishab178)) 📆**
+
+---
+
+> **Note**: Book now to secure your spot and receive a tailored package that fits your career goals!
